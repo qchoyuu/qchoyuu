@@ -8,12 +8,12 @@
 - :watermelon: 活跃社区：[scdn]  [掘金]  [登链社区]
 
 
-## :dart: Blog ～
+## :dart: Blog 
 
 - 
 
 
-## :computer: 语言工具
+## :computer: Tech Stack
 
 <div style="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
