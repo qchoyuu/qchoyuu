@@ -10,10 +10,8 @@
 
 ## :dart: Blog ～
 
-- :apple: web3公司前端（Block-Insight），React 与 Vue 爱好者
-- :strawberry: Solidity 学习中 ～
-- :tangerine: 交个朋友：微信号「QIOB12」
-- :watermelon: 活跃社区：[scdn]  [掘金]  [登链社区]
+- :
+- :
 
 
 ## :computer: 语言工具
