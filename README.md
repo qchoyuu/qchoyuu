@@ -8,5 +8,5 @@
 
 ## :dart: Blog 
 
-- 
+- In preparation ~
   
